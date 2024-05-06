@@ -1,5 +1,7 @@
 # Human Resource Analytics Project
 
+![](hrhero.jpg)
+
 ## Introduction
 This project is part of the FP20 Analytics Challenge 15, where participants analyze a Human Resource dataset to identify trends and provide insights. The challenge aims to explore various aspects of workforce management, such as diversity, retention, compensation, and turnover rates.
 
@@ -41,7 +43,13 @@ In Challenge 15, I identified trends within the Human Resource dataset. Here are
 - How about the pay equity based on gender, ethnicity, and age?
 - What is the employee turnover rate (e.g., monthly, quarterly, annually) since 2017?
 
-## Conclusion & Recommendation
+### In this project there are 2 pages :
+- Performance
+- Payout
+
+![](HRDataAnalysis.png)
+
+## Conclusion
 ### Workforce Diversity
 - **Gender Diversity:** The data reveals a slight majority of female employees (51.8%) compared to male employees (48.2%).
 - **Age Distribution:** Breakdown of employee retention rates by age group: 25-34 (35.4%), 35-44 (31.8%), 45-54 (21.7%), and 55+ (11.1%). This shows a relatively young workforce with a smaller proportion of older employees.
