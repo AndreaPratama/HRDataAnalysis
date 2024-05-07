@@ -19,7 +19,7 @@ The goal of this project was to create a dashboard to understand workforce compo
 ## Data Sourcing
 The dataset used in this project is provided as part of the FP20 Analytics Challenge 15. The dataset contains anonymized information about employees, including gender, ethnicity, age, hire date, job title, department, business unit, salary, bonus, and geographical information. The dataset is used to analyze workforce diversity, employee retention, compensation trends, and other key metrics in the Human Resource domain.
 
-More Information About This Challenge _[Zoomchart](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/fp20-analytics-april-2024)_
+More Information About This Challenge _[FP20 Analytics Challenge 15](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/fp20-analytics-april-2024)_
 
 ## Data Transformation
 Data transformation includes cleaning, filtering, and formatting the dataset to prepare it for analysis. This step ensures that the data is accurate and suitable for visualization.
@@ -27,7 +27,47 @@ Data transformation includes cleaning, filtering, and formatting the dataset to 
 ## Modeling
 In this project, I created a calendar table to facilitate time-based analysis. The calendar table contains information about dates, months, years, quarters, and more, which allows for better data analysis based on time dimensions. The calendar table is also used to create time relationships in the data model.
 
+| DAX | Result |
+|----------|----------|
+| ![](calendardax.png) | ![](calendarpict.png) |
+
+And Create Relationship between Calendar Table and Fact Table
+
+Date Column ( Calendar Table ) - Hire Date ( Fact Table )
+
+Date Column ( Calendar Table ) - Exite Date ( Fact Table )
+
+![](datamodeling.png)
+
 Additionally, I used various DAX measures to calculate time-based metrics and other analyses. For example, I used DAX measures to calculate employee retention, turnover rate, salary changes, annual bonuses, and more. These DAX measures helped me analyze trends and identify patterns in the HR data.
+
+Employee
+
+![](employeedax.png)
+
+Bonus
+
+![](bonusdax.png)
+
+Salary
+
+![](salarydax.png)
+
+Retention Rate
+
+![](retentionratedax.png)
+
+Turnover Rate
+
+![](turnoverratedax.png)
+
+Gender Percentage
+
+![](genderpercentagedax.png)
+
+Hires
+
+![](hiredax.png)
 
 ## Analyze & Visualization
 In Challenge 15, I identified trends within the Human Resource dataset. Here are some questions I answered in my report:
@@ -46,6 +86,8 @@ In Challenge 15, I identified trends within the Human Resource dataset. Here are
 ### In this project there are 2 pages :
 - Performance
 - Payout
+
+You can interact with report here [FP20 Analytics Challenge 15 Dashboard](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/submission/f2a84cd464a908a144272b7eb158b079?challenge=fp20-analytics-april-2024)
 
 ![](HRDataAnalysis.png)
 
