@@ -6,7 +6,7 @@
 This project is part of the FP20 Analytics Challenge 15, where participants analyze a Human Resource dataset to identify trends and provide insights. The challenge aims to explore various aspects of workforce management, such as diversity, retention, compensation, and turnover rates.
 
 ## Problem Statement
-The goal of this project was to create a dashboard to understand workforce composition, retention rates, compensation trends, and other factors affecting employee satisfaction and retention.
+The goal of this project was to create a Dashboard to understand workforce composition, retention rates, compensation trends, and other factors affecting employee satisfaction and retention.
 
 ## Skills Demonstrated
 - Data analysis and visualization using Power BI
