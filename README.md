@@ -1,4 +1,4 @@
-# Human Resource Analytics Project
+# Human Resource Analytics
 
 ![](hrhero.jpg)
 
