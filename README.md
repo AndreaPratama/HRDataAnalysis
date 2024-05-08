@@ -12,9 +12,10 @@ The goal of this project was to create a Dashboard to understand workforce compo
 - Data analysis and visualization using Power BI
 - Interactive visualization creation with ZoomCharts
 - Data transformation and modeling
-- Create Dashboard
+- Dashboard
 - DAX Measure
 - Implement UI/UX
+- Next Level KPI
 
 ## Data Sourcing
 The dataset used in this project is provided as part of the FP20 Analytics Challenge 15. The dataset contains anonymized information about employees, including gender, ethnicity, age, hire date, job title, department, business unit, salary, bonus, and geographical information. The dataset is used to analyze workforce diversity, employee retention, compensation trends, and other key metrics in the Human Resource domain.
