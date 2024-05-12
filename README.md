@@ -109,5 +109,3 @@ You can interact with report here [FP20 Analytics Challenge 15 Dashboard](https:
 
 Based on these insights, it is recommended that the company focuses on strategies to improve retention rates, particularly in departments with lower retention rates. Additionally, further analysis could be done to understand the factors contributing to the fluctuations in bonus amounts and turnover rates.
 
-## Getting Started
-To view the interactive visualizations and analysis, open the Power BI file provided in this repository.
